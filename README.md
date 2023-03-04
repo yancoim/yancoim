@@ -1,5 +1,5 @@
    # Olá! Eu sou Yan Coimbra 👋
-- ### 🌱 Estudando Desenvolvimento Web em Javascript
+- ### 🌱 Estudando Desenvolvimento Web com React
 - ### 🎓 Graduado em Análise e Desenvolvimento de Sistemas
 
 <div align="left">
